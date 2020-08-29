@@ -2,8 +2,8 @@ class Dog
   # a really cool animal
 end
 
-fido = dog.new 
+fido = Dog.new 
 
-snoopy = dog.new
+snoopy = Dog.new
 
-lassie = dog.new
+lassie = Dog.new
